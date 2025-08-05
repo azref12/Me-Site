@@ -4,6 +4,8 @@ site_url : https://azmi-refani.com
 
 theme : 
   name : material
+  icon :
+    - logo : material/cat
   features : 
     - search.suggest
     - search.highlight
@@ -24,6 +26,10 @@ theme :
   plugins : 
     - search
     - tags
+    - social : 
+      - card_layout: default/accent
+      - card_layout_options :
+        - background-color : "#0FF1CE"
 
   palette: 
   # Palette toggle for light mode
