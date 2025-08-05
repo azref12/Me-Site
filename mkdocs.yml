@@ -46,4 +46,6 @@ nav :
   - About Me : "about/aboutme.md"
   - Occupation : 
     - Work Experiences : "occupation/work.md"
-  - Portfolios : "portfolio/portfolio.md"
+  - Portfolios : 
+    - IT : "portfolio/IT.md"
+    - NON-IT : "portfolio/NON-IT.md"
