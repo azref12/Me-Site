@@ -1,7 +1,3 @@
-# About Me
-- About Me : [azmi_refani](https://about.me/azmi_refani)
-- Linkedin : [Azmi Refani](https://www.linkedin.com/in/azmi-refani-223482207/)
-
 ### Education
 2016 - 2021 => **INSTITUT TEKNOLOGI INDONESIA** 
 (*Bachelor of Computer Science* | Informatics)

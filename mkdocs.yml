@@ -9,7 +9,21 @@ theme :
     - search.highlight
     - content.tabs.link
     - navigation.instant
-    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.section
+    - navigation.expand
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    #- search.highlight
+    - search.share
+
+  plugins : 
+    - search
+    - tags
 
   palette: 
   # Palette toggle for light mode
@@ -28,3 +42,8 @@ theme :
     text: PT Serif
 
 nav : 
+  - Home : "index.md"
+  - About Me : "about/aboutme.md"
+  - Occupation : 
+    - Work Experiences : "occupation/work.md"
+  - Portfolios : "portfolio/portfolio.md"
