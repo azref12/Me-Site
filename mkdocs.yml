@@ -4,6 +4,9 @@ site_url : https://azmi-refani.com
 
 theme : 
   name : material
+  font :
+    text : Merriweather Sans
+    code : Red Hat Mono
   icon :
     - logo : material/cat
   features : 
@@ -26,10 +29,10 @@ theme :
   plugins : 
     - search
     - tags
-    - social : 
-      - card_layout: default/accent
-      - card_layout_options :
-        - background-color : "#0FF1CE"
+    #- social : 
+      #- card_layout: default/accent
+      #- card_layout_options :
+      #- background-color : "#0FF1CE"
 
   palette: 
   # Palette toggle for light mode
