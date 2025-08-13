@@ -13,7 +13,7 @@
 - PT Novitra Indonesia Pratama (Indosoft)
 - 1 March 2022 - 28 August 2024, 
     Job Desc :
-    1. Create a API for a projects using Django framework
+    1. Create an API for a projects using Django framework
     2. Create a documentation of the projects
     3. Create a report using MySQL query
     4. Ensure the program runs according to its function
